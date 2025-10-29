@@ -30,5 +30,5 @@ Telegram-бот с ИИ, который:
 
 --- 
 
-[⬅️ Вернуться на главную](https://github.com/VladimirMenshikov/VladimirMenshikov/blob/main/README.md) | [🖼️ Примеры интерфейса и архитектуры](./img/readme.md)
+[⬅️ Вернуться на главную](https://github.com/VladimirMenshikov/VladimirMenshikov/blob/main/README.md) | [🖼️ Примеры интерфейса и архитектуры](./img/readme.md) | [🚀 Попробовать бота →](https://t.me/Master_of_Ideas_bot)
 
